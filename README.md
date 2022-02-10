@@ -1,8 +1,10 @@
+<!--
 ### Hi there! 👋 
-I`m Mike
-<p align='center'>
-  How to reach me: <a href='mailto:mikelpsv@gmail.com'>send me email</a>
-</p>
+I`m Mike  
+<hr>
+-->
+📫 How to reach me: <a href='mailto:mikelpsv@gmail.com'>send me email</a>
+
 <!--
 **mikelpsv/mikelpsv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
